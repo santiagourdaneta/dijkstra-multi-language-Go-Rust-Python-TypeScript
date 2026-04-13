@@ -1,0 +1,21 @@
+# Compilados y ejecutables de C/Rust/Go
+main
+main.exe
+*.exe
+*.out
+target/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node / TypeScript
+node_modules/
+dist/
+*.js
+# (Nota: ignoramos .js si estás trabajando puramente en .ts)
+
+# Archivos de sistema y editores
+.DS_Store
+.vscode/
+.idea/
